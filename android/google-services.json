@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "992560881942",
+    "project_id": "salonreactnative",
+    "storage_bucket": "salonreactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992560881942:android:df2ed889773ea495933037",
+        "android_client_info": {
+          "package_name": "com.digitallifestream.salonreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992560881942-9o1gmq3gubsm3lpommmfo3t361ochg3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYXfKDifEQtCo0RuXQ-rxOKvN-WKXGnuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992560881942-2ntbm3ece4j40vjic7igq9pdnsmqqgre.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992560881942-g4uq1n7buft05n18bj7e33oj6a9ha4i9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitallifestream.salonreact"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
